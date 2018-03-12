@@ -1,0 +1,11 @@
+{
+  "name": "vscode-tsnode-breakpoints-not-hit",
+  "version": "1.0.0",
+  "description": "",
+  "author": "jugglingthebits",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
